@@ -1,2 +1,2 @@
-# elasticweb_controller
-a simple operator to aotoscale pod count by tps
+# elasticweb
+a simple operator controller to aotoscale pod count by tps
