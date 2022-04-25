@@ -1,0 +1,6 @@
+apiVersion: elasticweb.com.bolingcavalry/v1
+kind: ElasticWeb
+metadata:
+  name: elasticweb-sample
+spec:
+  # TODO(user): Add fields here
