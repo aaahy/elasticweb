@@ -1,14 +1,14 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: dev
+  name: ew
   labels:
-    name: dev
+    name: ew
 ---
 apiVersion: elasticweb.com.bolingcavalry/v1
 kind: ElasticWeb
 metadata:
-  namespace: dev
+  namespace: ew
   name: elasticweb-sample
 spec:
   # Add fields here
