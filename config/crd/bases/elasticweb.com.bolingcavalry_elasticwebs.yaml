@@ -48,8 +48,8 @@ spec:
                 type: integer
               totalQPS:
                 description: 当前整个业务的总QPS
-                #format: int32
-                #type: integer
+                format: int32
+                type: integer
             required:
             - image
             - port
@@ -61,8 +61,8 @@ spec:
             properties:
               realQPS:
                 description: 当前kubernetes中实际支持的总QPS
-                #format: int32
-                #type: integer
+                format: int32
+                type: integer
             required:
             - realQPS
             type: object
