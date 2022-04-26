@@ -13,4 +13,4 @@ kind: Kustomization
 images:
 - name: controller
   newName: reg.psbc.com/psbc_redis/elasticweb
-  newTag: "002"
+  newTag: "001"
