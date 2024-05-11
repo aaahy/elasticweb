@@ -43,7 +43,7 @@ const (
 	CPU_LIMIT = "100m"
 	// 单个POD的内存资源申请
 	MEM_REQUEST = "512Mi"
-	// 单个POD的内存资源上限
+	// 单个POD的内存资源上限xxxxxxxx
 	MEM_LIMIT = "512Mi"
 )
 
